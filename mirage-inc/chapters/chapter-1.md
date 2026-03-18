@@ -12,7 +12,7 @@ Jake put the phone face-down on the desk and went to unpack.
 
 He had been working on the second box — clothes, mostly, and a framed photo of himself and two friends from high school at the beach, everyone squinting into the sun — when the door opened and his first roommate arrived.
 
-The person who came through the door was medium height, slightly built, wearing a t-shirt with a faded logo Jake didn't recognize. He was carrying a single large duffel and a backpack and a box that rattled in a way that suggested it contained something that had once been a computer and had been disassembled for transport. He looked at the room with the expression of someone running a rapid spatial calculation, set everything down with the careful economy of someone who had thought about exactly where things were going before he entered, and then looked at Jake.
+The person who came through the door was medium height, slim, wearing a t-shirt with a faded logo Jake didn't recognize. He was carrying a single large duffel and a backpack and a box that rattled in a way that suggested it contained something that had once been a computer and had been disassembled for transport. He looked at the room with the expression of someone running a rapid spatial calculation, set everything down with the careful economy of someone who had thought about exactly where things were going before he entered, and then looked at Jake.
 
 "I took the lower bunk," Jake said.
 
