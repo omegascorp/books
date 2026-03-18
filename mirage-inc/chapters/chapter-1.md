@@ -1,6 +1,6 @@
 # Chapter 1 — Roommates
 
-Jake Miller stood in the doorway of dormitory 214 and took it in — the room was exactly the size of a mistake. A loft bed jutting from the left wall with two desks crammed underneath it, a bunk bed against the opposite wall, one window on the far side facing the parking lot, walls the color of institutional indifference, a ceiling light that flickered once when he hit the switch as if registering its own protest. His father had offered to rent him an off-campus apartment. Jake had declined on principle, a principle that was already feeling less solid than it had three hours ago.
+Jake Miller stood in the doorway of dormitory 214 and took it in — the room was exactly the size of a mistake. A loft bed jutting from the left wall with two desks crammed underneath it, a bunk bed against the opposite wall, one window on the far side facing the parking lot, walls the color of institutional indifference, a ceiling light that flickered once when he hit the switch as if registering its own protest. His father had offered to rent him an apartment off campus. Jake had declined on principle, a principle that was already feeling less solid than it had three hours ago.
 
 He dropped his duffel on the lower bunk and went to the window. The parking lot below was full of cars and parents and the specific anxious energy of people trying to look like they weren't crying. Move-in day at UC Berkeley. September in Northern California, which meant the heat was still thick and golden and the hills behind campus were the dry brown that people from other states always found surprising. Jake had grown up thirty minutes east in Walnut Creek and thought nothing of it.
 
@@ -24,13 +24,9 @@ He set the boxes down with the careful economy of someone who had thought about 
 
 They shook. Mike's grip was precise rather than strong, the handshake of someone who had been taught to do it correctly rather than someone who did it constantly. He was already looking at the desk, the window, the dimensions of the shared space, cataloguing.
 
-"Computer science?" Jake asked.
+"CS?" Jake asked.
 
-"Yeah. You?"
-
-"Same."
-
-Mike nodded and opened the first box of books, shelving them in an order that appeared to have a system Jake couldn't immediately identify.
+"EECS." Mike nodded and opened the first box of books, shelving them in an order that appeared to have a system Jake couldn't immediately identify.
 
 "You bring a lot of books," Jake observed.
 
@@ -66,9 +62,17 @@ Arthur looked at him for a moment. "It is close enough," he said, in the tone of
 
 Arthur shook both their hands with tremendous enthusiasm and then began unpacking with a speed and disorder that was the precise opposite of Mike's method — things came out of the suitcase in no particular sequence and were placed on surfaces according to some logic that was not immediately apparent. A laptop — Windows, a large gaming model with a sticker of the Armenian flag on the lid — went on the window desk first, which he had apparently assessed as his without discussion. Then clothes. Then a framed photo of what appeared to be a very large extended family. Then three phone chargers. He climbed the loft ladder twice to test it, declared it acceptable, and climbed back down.
 
-"Computer science?" Jake asked.
+"CS?" Jake asked.
 
-"Yes, bro! Also you?" Arthur looked delighted by this coincidence despite the fact that they were all in the same program in the same building. "All three of us. This is good. We can help each other." He looked at Mike's shelf of books and then at Jake's considerably less populated desk space. "You have read all of these already?"
+"Yes, bro! Also you?" Arthur looked delighted.
+
+"CS."
+
+They both looked at Mike.
+
+"EECS," Mike said, without looking up from his unpacking.
+
+Arthur stared at him for a moment. "Bro." He said it with the weight of a genuine compliment. Mike's expression suggested he had received this reaction before and had decided it was acceptable. "All three of us — technical. This is good. We can help each other." He looked at Mike's shelf of books and then at Jake's considerably less populated desk space. "You have read all of these already?"
 
 "Not yet," Mike said.
 
@@ -132,7 +136,7 @@ Jake ate whatever the dining hall was serving. Mike had a rotation of places on 
 
 On Friday nights Jake went to parties. Mike ordered from the Thai place three blocks away and worked on whatever he was working on with the quiet contentment of someone in exactly the right place. Arthur went to the Armenian restaurant on Shattuck and usually came back with food for whoever was in the room, whether they had asked for it or not.
 
-They talked in the margins, around other things, the way people who share a space naturally do. Jake learned that Mike had wanted to study computer science since he was twelve, had taken apart every appliance in the apartment growing up to understand the mechanics, had a mother who eventually started leaving things out for him to disassemble once she understood what he was doing — a woman with an engineering degree of her own who recognized the instinct even if she hadn't had much use for it lately. Mike had grown up in Kansas City, Missouri. He had flown to San Francisco for the first time in September, one checked bag, a ThinkPad he had repaired twice, and an acceptance letter he had worked four years to earn. Mike learned that Jake was there because his father had wanted an engineer, that Jake had not disagreed strongly because he hadn't yet found something to strongly agree with instead.
+They talked in the margins, around other things, the way people who share a space naturally do. Jake learned that Mike had wanted to do EECS since he was twelve, had taken apart every appliance in the apartment growing up to understand the mechanics, had a mother who eventually started leaving things out for him to disassemble once she understood what he was doing — a woman with an engineering degree of her own who recognized the instinct even if she hadn't had much use for it lately. Mike had grown up in Kansas City, Missouri. He had flown to San Francisco for the first time in September, one checked bag, a ThinkPad he had repaired twice, and an EECS acceptance letter he had worked four years to earn. Mike learned that Jake was in CS because his father had wanted an engineer, that Jake had not disagreed strongly because he hadn't yet found something to strongly agree with instead.
 
 "That's not really a reason to be somewhere," Mike said one evening, not looking up from his work.
 
