@@ -1,8 +1,8 @@
 # Chapter 1 — Roommates
 
-Jake Miller stood in the doorway of dormitory 214 and took it in — the room was exactly the size of a mistake. Three beds, three desks, one window facing the parking lot, walls the color of institutional optimism, a ceiling light that flickered once when he hit the switch as if registering its own protest. His father had offered to pay for a single. Jake had declined on principle, a principle that was already feeling less solid than it had three hours ago.
+Jake Miller stood in the doorway of dormitory 214 and took it in — the room was exactly the size of a mistake. A loft bed jutting from the left wall with two desks crammed underneath it, a bunk bed against the opposite wall, one window on the far side facing the parking lot, walls the color of institutional indifference, a ceiling light that flickered once when he hit the switch as if registering its own protest. His father had offered to pay for a single. Jake had declined on principle, a principle that was already feeling less solid than it had three hours ago.
 
-He dropped his duffel on the left bed and went to the window. The parking lot below was full of cars and parents and the specific anxious energy of people trying to look like they weren't crying. Move-in day at UC Berkeley. September in Northern California, which meant the heat was still thick and golden and the hills behind campus were the dry brown that people from other states always found surprising. Jake had grown up thirty minutes east in Walnut Creek and thought nothing of it.
+He dropped his duffel on the lower bunk and went to the window. The parking lot below was full of cars and parents and the specific anxious energy of people trying to look like they weren't crying. Move-in day at UC Berkeley. September in Northern California, which meant the heat was still thick and golden and the hills behind campus were the dry brown that people from other states always found surprising. Jake had grown up thirty minutes east in Walnut Creek and thought nothing of it.
 
 His phone buzzed. His father.
 
@@ -16,9 +16,9 @@ The first thing through the door was a box of books. Then another box of books. 
 
 He set the boxes down with the careful economy of someone who had thought about exactly where they were going before he entered the room. Then he looked at Jake.
 
-"I took the left bed," Jake said.
+"I took the lower bunk," Jake said.
 
-"Middle bed is fine." He put out a hand. "Mike Bondarenko."
+"Upper bunk is fine." He put out a hand. "Mike Bondarenko."
 
 "Jake Miller."
 
@@ -38,13 +38,13 @@ Mike nodded and opened the first box of books, shelving them in an order that ap
 
 Jake looked at his own two boxes and the duffel bag and thought about what that said about each of them. He went back to unpacking.
 
-They worked in parallel for a while, the room gradually becoming more inhabited around them. Mike's side developed a precise and somewhat dense organization — books stacked by subject, a desk setup assembled from components he had apparently packed himself, two small plants placed on the windowsill with the confidence of someone who had already decided that was where they were going. Jake's side looked like a person lived there, which he supposed was the same thing achieved by different methods. The third bed, the right one, remained empty and made.
+They worked in parallel for a while, the room gradually becoming more inhabited around them. Mike claimed the desk under the loft — the darker of the two positions but with more wall space — and organized it with the precise density of someone who had planned this before arriving. Books stacked by subject, a desk setup assembled from components he had apparently packed himself, two small plants placed on the narrow windowsill with the confidence of someone who had already decided that was where they were going. He threw his bag onto the upper bunk without ceremony and went back to unpacking. Jake's side of the lower bunk looked like a person lived there, which he supposed was the same thing achieved by different methods. The loft bed above the two remaining desks sat empty, waiting.
 
 The third roommate arrived an hour later.
 
 He came through the door already talking — not to anyone specifically, just talking, the way some people think out loud at full volume. He was carrying one large suitcase and a backpack and a plastic bag from a pharmacy near the airport that he set down in the middle of the floor and then gestured at broadly.
 
-"I bought things at the airport. Very expensive, bro. Everything at airports is very expensive — why is this?" He looked at Jake and then Mike with the open expectation of someone who genuinely wanted an answer. "I'm Arthur. Arthur Mkhitaryan. I have the right bed."
+"I bought things at the airport. Very expensive, bro. Everything at airports is very expensive — why is this?" He looked at Jake and then Mike with the open expectation of someone who genuinely wanted an answer. "I'm Arthur. Arthur Mkhitaryan. I have the loft."
 
 "Jake."
 
@@ -64,7 +64,7 @@ They shook. Then a beat of silence.
 
 Arthur looked at him for a moment. "It is close enough," he said, in the tone of someone who had been having this conversation his entire life and had made peace with it.
 
-Arthur shook both their hands with tremendous enthusiasm and then began unpacking with a speed and disorder that was the precise opposite of Mike's method — things came out of the suitcase in no particular sequence and were placed on surfaces according to some logic that was not immediately apparent. A laptop — Windows, a large gaming model with a sticker of the Armenian flag on the lid — went on the desk first. Then clothes. Then a framed photo of what appeared to be a very large extended family. Then three phone chargers.
+Arthur shook both their hands with tremendous enthusiasm and then began unpacking with a speed and disorder that was the precise opposite of Mike's method — things came out of the suitcase in no particular sequence and were placed on surfaces according to some logic that was not immediately apparent. A laptop — Windows, a large gaming model with a sticker of the Armenian flag on the lid — went on the window desk first, which he had apparently assessed as his without discussion. Then clothes. Then a framed photo of what appeared to be a very large extended family. Then three phone chargers. He climbed the loft ladder twice to test it, declared it acceptable, and climbed back down.
 
 "Computer science?" Jake asked.
 
