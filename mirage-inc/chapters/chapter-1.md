@@ -1,5 +1,13 @@
 # Chapter 1 — Roommates
 
+---
+
+*Somewhere inside The Mirage there is a city you have always wanted to live in, a morning you have always meant to have, a version of your life that got away from you somewhere around forty. We built all of it — not as a memory, not as a dream, but as a world you can walk through, touch, and call your own. Complete sensory immersion. Every street, every face, every window with the right light at the right hour. Our clients don't ask for more time. They ask for a different relationship with the time they have. We think that is a reasonable request.*
+
+**MIRAGE INC**
+
+---
+
 Jake Miller stood in the doorway of dormitory 214 and took it in — the room was exactly the size of a mistake. A loft bed jutting from the left wall with two desks crammed underneath it, a bunk bed against the opposite wall, one window on the far side facing the parking lot, walls the color of institutional indifference, a ceiling light that flickered once when he hit the switch as if registering its own protest. His father had offered to rent him an apartment off campus. Jake had declined on principle, a principle that was already feeling less solid than it had three hours ago.
 
 He dropped his duffel on the lower bunk and went to the window. The parking lot below was full of cars and parents and the specific anxious energy of people trying to look like they weren't crying. Move-in day at UC Berkeley. September in Northern California, which meant the heat was still thick and golden and the hills behind campus were the dry brown that people from other states always found surprising. Jake had grown up thirty minutes east in Walnut Creek and thought nothing of it.
