@@ -12,9 +12,7 @@ Jake put the phone face-down on the desk and went to unpack.
 
 He had been working on the second box — clothes, mostly, and a framed photo of himself and two friends from high school at the beach, everyone squinting into the sun — when the door opened and his first roommate arrived.
 
-The first thing through the door was a box of books. Then another box of books. Then a third box that rattled in a way that suggested it contained either more books or something that had once been a computer and had been disassembled for transport. Then the person carrying all of this appeared — medium height, slightly built, wearing a t-shirt with a faded logo Jake didn't recognize, looking at the room with the expression of someone running a rapid spatial calculation.
-
-He set the boxes down with the careful economy of someone who had thought about exactly where they were going before he entered the room. Then he looked at Jake.
+The person who came through the door was medium height, slightly built, wearing a t-shirt with a faded logo Jake didn't recognize. He was carrying a single large duffel and a backpack and a box that rattled in a way that suggested it contained something that had once been a computer and had been disassembled for transport. He looked at the room with the expression of someone running a rapid spatial calculation, set everything down with the careful economy of someone who had thought about exactly where things were going before he entered, and then looked at Jake.
 
 "I took the lower bunk," Jake said.
 
@@ -26,15 +24,11 @@ They shook. Mike's grip was precise rather than strong, the handshake of someone
 
 "CS?" Jake asked.
 
-"EECS." Mike nodded and opened the first box of books, shelving them in an order that appeared to have a system Jake couldn't immediately identify.
+"EECS." Mike nodded and started unpacking.
 
-"You bring a lot of books," Jake observed.
+Jake looked at his own two boxes and the duffel bag and went back to unpacking.
 
-"I like physical books. You can annotate them." He didn't look up. "Also the library has a four-hour loan limit on technical texts during finals and I don't like borrowing things I might need at two in the morning."
-
-Jake looked at his own two boxes and the duffel bag and thought about what that said about each of them. He went back to unpacking.
-
-They worked in parallel for a while, the room gradually becoming more inhabited around them. Mike claimed the desk under the loft — the darker of the two positions but with more wall space — and organized it with the precise density of someone who had planned this before arriving. Books stacked by subject, a desk setup assembled from components he had apparently packed himself, two small plants placed on the narrow windowsill with the confidence of someone who had already decided that was where they were going. He threw his bag onto the upper bunk without ceremony and went back to unpacking. Jake's side of the lower bunk looked like a person lived there, which he supposed was the same thing achieved by different methods. The loft bed above the two remaining desks sat empty, waiting.
+They worked in parallel for a while, the room gradually becoming more inhabited around them. Mike claimed the desk under the loft — the darker of the two positions but with more wall space — and organized it with the precise density of someone who had planned this before arriving. A desk setup assembled from components he had apparently packed himself, two small plants placed on the narrow windowsill with the confidence of someone who had already decided that was where they were going. He threw his bag onto the upper bunk without ceremony and went back to work. Jake's side of the lower bunk looked like a person lived there, which he supposed was the same thing achieved by different methods. The loft bed above the two remaining desks sat empty, waiting.
 
 The third roommate arrived an hour later.
 
@@ -72,11 +66,9 @@ They both looked at Mike.
 
 "EECS," Mike said, without looking up from his unpacking.
 
-Arthur stared at him for a moment. "Bro." He said it with the weight of a genuine compliment. Mike's expression suggested he had received this reaction before and had decided it was acceptable. "All three of us — technical. This is good. We can help each other." He looked at Mike's shelf of books and then at Jake's considerably less populated desk space. "You have read all of these already?"
+Arthur stared at him for a moment. "Bro." He said it with the weight of a genuine compliment. Mike's expression suggested he had received this reaction before and had decided it was acceptable. "All three of us — technical. This is good. We can help each other." He looked at Mike's precisely organized desk and then at Jake's considerably less populated one.
 
 "Not yet," Mike said.
-
-"But you brought them anyway." Arthur considered this. "I like this. I also brought books I have not read. We are the same." He said it with complete sincerity. Mike's expression suggested he had some reservations about this conclusion but was willing to table them for now.
 
 Arthur was from Yerevan — Armenia's capital, he explained, though he had lived his whole life near the university district there and was therefore no stranger to students. He had a scholarship from the Armenian government and a partial sponsorship from a foundation in the diaspora community, which together covered enough of Berkeley's fees to make attendance possible if not comfortable. He had never been to California before. He had very specific opinions about the airport coffee.
 
@@ -122,19 +114,19 @@ Jake looked at Mike. Mike looked at the coffee machine with the expression of so
 
 Arthur looked pleased in the uncomplicated way of someone for whom a solved problem stays solved. He went back to the room to finish unpacking, still talking, his voice receding down the hall.
 
-Jake leaned against the counter and considered the situation — the three boxes of books, the plants, the already-formed plan about the kettle, the Armenian restaurant on Shattuck — and decided that this was going to be interesting in one direction or another.
+Jake leaned against the counter and considered the situation — the plants, the already-formed plan about the kettle, the Armenian restaurant on Shattuck — and decided that this was going to be interesting in one direction or another.
 
 ---
 
 They found their equilibrium without discussing it, the way people who share a small space eventually do.
 
-Jake went out. Mike stayed in. Arthur did both simultaneously, somehow — he was at his desk when Jake left for parties and occasionally still there when Jake came back, but he had also been to three club meetings and introduced himself to everyone on the floor and resolved a disagreement between two sophomores in the room next door about a borrowed charger, all apparently in the same evening. Jake was not entirely sure how.
+Jake went out. Mike stayed in. Arthur did both simultaneously, somehow — he was at his desk when Jake left for parties and occasionally still there when Jake came back, but he had also been to three club meetings and introduced himself to everyone on the floor and resolved a disagreement between two sophomores in the room next door about a borrowed charger, all apparently in the same evening. He also disappeared occasionally for fifteen minutes at a time, always returned slightly more settled, and Jake eventually worked out that he walked to the street just outside the campus boundary to smoke — Berkeley being entirely smoke-free, campus and dorms both, which Arthur had apparently accepted as simply how things were here without complaint.
 
-Jake was at the campus rec center by six-thirty every morning. Mike woke at seven, walked to the common room in whatever he had slept in, made the first tea of the day on the hot plate he had installed on day three without anyone objecting, and read for forty minutes before showering. Arthur woke at eight-fifteen, located his phone, and immediately began texting someone — family, Jake assumed, given the time difference — for twenty minutes before getting up.
+Jake made it to the campus rec center a few mornings a week when he felt like it, which was often enough to stay in shape and not so often that it felt like a commitment. Mike woke at seven, walked to the common room in whatever he had slept in, made the first tea of the day on the hot plate he had installed on day three without anyone objecting, and spent the first hour of every morning studying before showering. Arthur woke at eight-fifteen, located his phone, and immediately began texting someone — family, Jake assumed, given the time difference — for twenty minutes before getting up.
 
 Jake ate whatever the dining hall was serving. Mike had a rotation of places on Telegraph Avenue he had identified in the first two weeks. Arthur ate everywhere, enthusiastically, and always had an opinion about it afterward.
 
-On Friday nights Jake went to parties. Mike ordered from the Thai place three blocks away and worked on whatever he was working on with the quiet contentment of someone in exactly the right place. Arthur went to the Armenian restaurant on Shattuck and usually came back with food for whoever was in the room, whether they had asked for it or not.
+On Friday nights Jake went to parties — came back smelling like cheap beer, sometimes louder than the hour warranted, always fine by morning. Mike ordered from the Thai place three blocks away and worked on whatever he was working on with the quiet contentment of someone in exactly the right place. He never drank, never seemed to want to, and never mentioned it either way. Arthur went to the Armenian restaurant on Shattuck and usually came back with food for whoever was in the room, whether they had asked for it or not — containers of things that smelled extraordinary, set on the desk without ceremony, available to anyone.
 
 They talked in the margins, around other things, the way people who share a space naturally do. Jake learned that Mike had wanted to do EECS since he was twelve, had taken apart every appliance in the apartment growing up to understand the mechanics, had a mother who eventually started leaving things out for him to disassemble once she understood what he was doing — a woman with an engineering degree of her own who recognized the instinct even if she hadn't had much use for it lately. Mike had grown up in Kansas City, Missouri. He had flown to San Francisco for the first time in September, one checked bag, a ThinkPad he had repaired twice, and an EECS acceptance letter he had worked four years to earn. Mike learned that Jake was in CS because his father had wanted an engineer, that Jake had not disagreed strongly because he hadn't yet found something to strongly agree with instead.
 
